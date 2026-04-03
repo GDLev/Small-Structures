@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "small_structures",
+  "version": "0.2+1.21.9-UNIVERSAL",
+  "name": "Small Structures",
+  "description": "Adds small vanilla-like structures",
+  "authors": ["GDLev"],
+  "contact": {
+    "homepage": "https://modrinth.com/datapack/small-structures"
+  },
+  "license": "GPL-3.0",
+  "icon": "pack.png",
+  "environment": "*",
+  "depends": {
+    "fabric-resource-loader-v0": "*"
+  }
+}

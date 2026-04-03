@@ -1,0 +1,115 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 2,
+        "max": 5
+      },
+      "entries": [
+        { "type": "minecraft:item", "name": "minecraft:stick", "weight": 15,
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 6 } }]
+        },
+        { "type": "minecraft:item", "name": "minecraft:rotten_flesh", "weight": 12,
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 4 } }]
+        },
+        { "type": "minecraft:item", "name": "minecraft:bone", "weight": 10,
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 3 } }]
+        },
+        { "type": "minecraft:item", "name": "minecraft:string", "weight": 10,
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 3 } }]
+        },
+        { "type": "minecraft:item", "name": "minecraft:paper", "weight": 8,
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 5 } }]
+        },
+        { "type": "minecraft:item", "name": "minecraft:wheat_seeds", "weight": 8,
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 4 } }]
+        },
+        { "type": "minecraft:item", "name": "minecraft:coal", "weight": 6,
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 3 } }]
+        },
+        { "type": "minecraft:item", "name": "minecraft:bread", "weight": 5 },
+        { "type": "minecraft:item", "name": "minecraft:leather", "weight": 5 },
+        { "type": "minecraft:item", "name": "minecraft:glass_bottle", "weight": 6,
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 2 } }]
+        },
+        { "type": "minecraft:item", "name": "minecraft:flint", "weight": 5 }
+      ]
+    },
+
+    {
+      "rolls": 0.2,
+      "entries": [
+        { "type": "minecraft:item", "name": "minecraft:angler_pottery_sherd" },
+        { "type": "minecraft:item", "name": "minecraft:archer_pottery_sherd" },
+        { "type": "minecraft:item", "name": "minecraft:arms_up_pottery_sherd" },
+        { "type": "minecraft:item", "name": "minecraft:blade_pottery_sherd" },
+        { "type": "minecraft:item", "name": "minecraft:brewer_pottery_sherd" },
+        { "type": "minecraft:item", "name": "minecraft:burn_pottery_sherd" },
+        { "type": "minecraft:item", "name": "minecraft:danger_pottery_sherd" },
+        { "type": "minecraft:item", "name": "minecraft:explorer_pottery_sherd" },
+        { "type": "minecraft:item", "name": "minecraft:friend_pottery_sherd" },
+        { "type": "minecraft:item", "name": "minecraft:heart_pottery_sherd" }
+      ]
+    },
+
+    {
+      "rolls": 0.05,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_pickaxe",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.6,
+                "max": 0.95
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_shovel",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.6,
+                "max": 0.95
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.6,
+                "max": 0.95
+              }
+            }
+          ]
+        },
+
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_pickaxe",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.5,
+                "max": 0.9
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

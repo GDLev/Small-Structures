@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "quilt_loader": {
+    "group": "dev.gdlev",
+    "id": "small_structures",
+    "version": "0.2+1.21.9-UNIVERSAL",
+    "metadata": {
+      "name": "Small Structures",
+      "license": "GPL-3.0",
+      "description": "Adds small vanilla-like structures",
+      "contributors": {
+				"GDLev": "Owner"
+			},
+      "icon": "pack.png",
+      "contact": {
+        "homepage": "https://modrinth.com/datapack/small-structures"
+      }
+    },
+    "intermediate_mappings": "net.fabricmc:intermediary"
+  }
+}

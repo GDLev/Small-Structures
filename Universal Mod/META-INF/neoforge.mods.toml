@@ -1,0 +1,7 @@
+modLoader = 'javafml'
+loaderVersion = '[1,)'
+license = 'GPL-3.0'
+showAsResourcePack = false
+mods = [
+	{ modId = "small_structures", version = "0.2-1.21.9+UNIVERSAL", displayName = "small-structures+1.21.9-26.1", description = "Adds small vanilla-like structures", logoFile = "pack.png", updateJSONURL = "https://modrinth.com/datapack/small-structures/updates.json", displayURL = "https://modrinth.com/datapack/small-structures", authors = "GDLev" }
+]
