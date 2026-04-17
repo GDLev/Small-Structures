@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": "Adds small vanilla-like structures",
+    "pack_format": 94.1,
+    "min_format": 71,
+	"supported_formats": [71, 81],
+    "max_format": 94.1
+  }
+}

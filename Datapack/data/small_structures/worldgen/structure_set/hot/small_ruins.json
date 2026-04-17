@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "small_structures:hot/small_ruins",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 30,
+    "separation": 10,
+    "salt": 97890765
+  }
+}

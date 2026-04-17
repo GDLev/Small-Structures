@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "small_structures:regular/water_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 35,
+    "separation": 15,
+    "salt": 24681357
+  }
+}

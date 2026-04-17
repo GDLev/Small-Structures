@@ -1,0 +1,23 @@
+{
+  "name": "small_structures:regular/minifarm",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "small_structures:regular/minifarm",
+        "processors": [
+          {
+            "processor_type": "minecraft:block_ignore",
+            "blocks": [
+              { "Name": "minecraft:structure_void" }
+            ]
+          }
+        ],
+        "override_liquid_settings": "ignore_waterlogging"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "small_structures:cold/well",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 20,
+    "separation": 12,
+    "salt": 54375632
+  }
+}
