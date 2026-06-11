@@ -1,0 +1,94 @@
+{
+  "structures": [
+    {
+      "structure": "small_structures:cold/logs",
+      "weight": 8
+    },
+    {
+      "structure": "small_structures:hot/logs",
+      "weight": 8
+    },
+    {
+      "structure": "small_structures:regular/logs",
+      "weight": 8
+    },
+    {
+      "structure": "small_structures:cold/camp",
+      "weight": 5
+    },
+    {
+      "structure": "small_structures:hot/camp",
+      "weight": 5
+    },
+    {
+      "structure": "small_structures:regular/camp",
+      "weight": 5
+    },
+    {
+      "structure": "small_structures:cold/minifarm",
+      "weight": 5
+    },
+    {
+      "structure": "small_structures:hot/minifarm",
+      "weight": 5
+    },
+    {
+      "structure": "small_structures:regular/minifarm",
+      "weight": 5
+    },
+    {
+      "structure": "small_structures:cold/well",
+      "weight": 5
+    },
+    {
+      "structure": "small_structures:hot/well",
+      "weight": 5
+    },
+    {
+      "structure": "small_structures:regular/well",
+      "weight": 5
+    },
+    {
+      "structure": "small_structures:cold/trader",
+      "weight": 3
+    },
+    {
+      "structure": "small_structures:hot/trader",
+      "weight": 3
+    },
+    {
+      "structure": "small_structures:regular/trader",
+      "weight": 3
+    },
+    {
+      "structure": "small_structures:cold/small_ruins",
+      "weight": 2
+    },
+    {
+      "structure": "small_structures:hot/small_ruins",
+      "weight": 2
+    },
+    {
+      "structure": "small_structures:regular/small_ruins",
+      "weight": 2
+    },
+    {
+      "structure": "small_structures:hot/water_tower",
+      "weight": 1
+    },
+    {
+      "structure": "small_structures:regular/water_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 16,
+    "separation": 9,
+    "salt": 65487685,
+    "exclusion_zone": {
+      "other_set": "minecraft:villages",
+      "chunk_count": 8
+    }
+  }
+}

@@ -3,7 +3,7 @@
   "quilt_loader": {
     "group": "dev.gdlev",
     "id": "small_structures",
-    "version": "0.2+1.21.9-UNIVERSAL",
+    "version": "0.3+1.21.9-26.1.2+UNIVERSAL",
     "metadata": {
       "name": "Small Structures",
       "license": "GPL-3.0",
@@ -13,9 +13,18 @@
 			},
       "icon": "pack.png",
       "contact": {
-        "homepage": "https://modrinth.com/datapack/small-structures"
+        "homepage": "https://modrinth.com/datapack/small-structures",
+        "sources" : "https://github.com/GDLev/Small-Structures",
+        "issues" : "https://github.com/GDLev/Small-Structures/issues"
       }
     },
     "intermediate_mappings": "net.fabricmc:intermediary"
+  },
+  "modmenu" : {
+    "links" : {
+      "modmenu.github_releases" : "https://github.com/GDLev/Small-Structures/releases",
+      "modmenu.modrinth" : "https://modrinth.com/mod/small-structures",
+      "modmenu.curseforge": "https://www.curseforge.com/minecraft/mc-mods/small-structures"
+    }
   }
 }
