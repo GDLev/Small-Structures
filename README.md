@@ -1,5 +1,5 @@
 [![2,686 downloads across all platforms](https://www.modpackindex.com/badge/mod/107712/small-structures/downloads.svg)](https://www.modpackindex.com/mod/107712/small-structures)
-[![Supports Minecraft 1.21.9 – 26.1.2](https://www.modpackindex.com/badge/mod/107712/small-structures/version.svg?color=red)](https://www.modpackindex.com/mod/107712/small-structures)
+[![Supports Minecraft 1.21.9 – 26.2](https://www.modpackindex.com/badge/mod/107712/small-structures/version.svg?color=red)](https://www.modpackindex.com/mod/107712/small-structures)
 [![Used in 2 modpacks on Modpack Index](https://www.modpackindex.com/badge/mod/107712/small-structures/modpacks.svg)](https://www.modpackindex.com/mod/107712/small-structures)
 
 # Small Structures
