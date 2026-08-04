@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "small_structures",
-  "version": "0.4+1.21.9-26.2+UNIVERSAL",
+  "version": "0.5+1.21.9-26.2+UNIVERSAL",
   "name": "Small Structures",
   "description": "Adds small vanilla-like structures",
   "authors": ["GDLev"],

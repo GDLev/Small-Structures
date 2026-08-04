@@ -79,6 +79,14 @@
     {
       "structure": "small_structures:regular/water_tower",
       "weight": 1
+    },
+    {
+      "structure": "small_structures:hot/bench",
+      "weight": 5
+    },
+    {
+      "structure": "small_structures:regular/bench",
+      "weight": 5
     }
   ],
   "placement": {
